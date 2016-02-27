@@ -5,17 +5,17 @@
 		# EXAMPLE - mods.exnihilo.Composting.addRecipe(<minecraft:hay_block>, 0.72, "E3E162");
 			#BigTrees
 				#Oak
-				mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling>, 0.13, "E3E162");
+				#mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling>, 0.13, "E3E162");
 				#Birch
-				mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:1>, 0.13, "E3E162");
+				#mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:1>, 0.13, "E3E162");
 				#Pine
-				mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:2>, 0.13, "E3E162");
+				#mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:2>, 0.13, "E3E162");
 				#Dead
-				mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:3>, 0.13, "E3E162");
+				#mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:3>, 0.13, "E3E162");
 				#Cyprus
-				mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:4>, 0.13, "E3E162");
+				#mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:4>, 0.13, "E3E162");
 				#Hat
-				mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:5>, 0.13, "E3E162");
+				#mods.exnihilo.Composting.addRecipe(<bigtrees:bt_bigSapling:5>, 0.13, "E3E162");
 			#Calculator
 				#Amethyst
 				mods.exnihilo.Composting.addRecipe(<Calculator:AmethystSapling>, 0.20, "E3E162");

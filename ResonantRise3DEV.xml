@@ -165,7 +165,7 @@
     <!-- Dependencies (as classed by ATL) -->
 
         <mod name="Baubles" version="1.0.1.10"
-             url="packs/ResonantRise/files/3.x/Baubles-1.7.10-1.0.1.10.jar" file="Baubles-1.7.10-1.0.1.10.jar" md5="0e711d6535970f62d4964edaa26f4623" download="server"
+             version="1.0.1.10" url="packs/ResonantRiseLite/files/void/Baubles-1.7.10-1.0.1.10.jar" file="Baubles-1.7.10-1.0.1.10.jar" md5="0e711d6535970f62d4964edaa26f4623" download="server"
              type="dependency"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-3-updated-8-8-2014"
              authors="Azanor,Vazkii"
@@ -173,7 +173,7 @@
              />
 
         <mod name="CodeChickenLib"
-             version="1.1.3.138" url="packs/ResonantRise/files/3.x/CodeChickenLib-1.7.10-1.1.3.138-universal.jar" file="CodeChickenLib-1.7.10-1.1.3.138-universal.jar" md5="07fd1a4d8337cca200d871e25426705d" download="server"
+             version="1.1.3.138" url="packs/ResonantRiseLite/files/void/CodeChickenLib-1.7.10-1.1.3.138-universal.jar" file="CodeChickenLib-1.7.10-1.1.3.138-universal.jar" md5="07fd1a4d8337cca200d871e25426705d" download="server"
              type="dependency"
              website="http://www.minecraftforum.net/topic/909223" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
@@ -181,14 +181,14 @@
              />
 
         <mod name="Commons-Codec" version="1.9"
-             url="packs/ResonantRise/files/3.x/commons-codec-1.9.jar" file="commons-codec-1.9.jar" md5="75615356605c8128013da9e3ac62a249" download="server"
+             url="packs/ResonantRiseLite/files/void/commons-codec-1.9.jar" file="commons-codec-1.9.jar" md5="75615356605c8128013da9e3ac62a249" download="server"
              type="dependency"
              website="http://commons.apache.org/proper/commons-codec/"
              description="Commons Library Files"
              />
 
         <mod name="Commons-Compress" version="1.8.1"
-             url="packs/ResonantRise/files/3.x/commons-compress-1.8.1.jar" file="commons-compress-1.8.1.jar" md5="d862e30ff6b5d78264677dcd6507abb8" download="server"
+             url="packs/ResonantRiseLite/files/void/commons-compress-1.8.1.jar" file="commons-compress-1.8.1.jar" md5="d862e30ff6b5d78264677dcd6507abb8" download="server"
              type="dependency"
              website="http://commons.apache.org/proper/commons-compress/"
              description="Commons Library Files"
@@ -211,7 +211,7 @@
              />
 
         <mod name="RelocationFMP"
-             version="0.0.1.2" url="packs/ResonantRise/files/3.3.x/ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar" file="ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar" md5="eb6cb5103252e6870dec10fda67b1285" download="server"
+             version="0.0.1.4" url="packs/ResonantRiseLite/files/void/ForgeRelocation-1.7.10-0.0.1.4-universal.jar" file="ForgeRelocation-1.7.10-0.0.1.4-universal.jar" md5="2a7143a16683bb0989b15ba8c4ea17ca" download="server"
              type="dependency"
              website="http://www.curse.com/mc-mods/minecraft/232076-forge-relocation-fmp-plugin" donation="http://patreon.com/MrTJP"
              authors="Mr_TJP"
@@ -227,7 +227,7 @@
              />
 
         <mod name="MrTJPCore"
-             version="1.1.0.32" url="packs/ResonantRise/files/3.3.x/096/MrTJPCore-1.1.0.32-universal.jar" file="MrTJPCore-1.1.0.32-universal.jar" md5="f66cd65a3daff1cd707fc0afc0097b2f" download="server"
+             version="1.1.0.32" url="packs/ResonantRiseLite/files/void/MrTJPCore-1.1.0.32-universal.jar" file="MrTJPCore-1.1.0.32-universal.jar" md5="f66cd65a3daff1cd707fc0afc0097b2f" download="server"
              type="dependency"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred" donation="http://www.patreon.com/MrTJP"
              authors="Mr_TJP, ChickenBones"
@@ -250,14 +250,6 @@
              website="http://minecraft.curseforge.com/mc-mods/225635-agricraft"
              authors="InfinityRaider"
              description="Agricultural farming extended"
-             />
-
-        <mod name="AnimationAPI"
-             version="1.7.10-1.2.4" url="packs/ResonantRiseLite/files/void/ANIMATIONAPI-1.7.10-1.2.4.jar" file="ANIMATIONAPI-1.7.10-1.2.4.jar" md5="7ec0b391e527461196e86f4e4974f560" download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/1850860-/"
-             authors="thehippomaster21"
-             description="A supporting mod that allows modders to make animations more easily."
              />
 
         <mod name="Another One Bites The Dust"
@@ -300,16 +292,8 @@
              description="An addon for Thaumcraft 4 focused on providing flexible and interesting tools for automation and logistics, plus a few other fun thaumic gadgets."
              />
 
-        <mod name="Backpack"
-             version="2.0.1-1.7.x" url="packs/ResonantRiseLite/files/void/BACKPACK-2.0.1-1.7.X.jar" file="BACKPACK-2.0.1-1.7.X.jar" md5="22f976e9c4af7c5400ac11f59c87f592" download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/1492661-" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/forge-backpacks?gameCategorySlug=mc-mods&amp;projectID=59143&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=t.werdin%40eydamos.de&amp;bn=PP-DonationsBF:btn_donateCC_"
-             authors="Eydamos"
-             description="Provides the player with multiple, colored backpacks, which each has the space of a normal chest."
-             />
-
         <mod name="BD Lib"
-             version="1.9.4.109" url="packs/ResonantRiseLite/files/void/BDLIB-1.9.4.109-MC1.7.10.jar" file="BDLIB-1.9.4.109-MC1.7.10.jar" md5="e446121e3e94b77d1c610ceed0fd3f68" download="server"
+             version="1.9.4.109" url="packs/ResonantRiseLite/files/void/BDLIB-1.9.4.109-MC1.7.10.jar" file="BDLIB-1.9.4.109-MC1.7.10.jar" md5="e446121e3e94b77d1c610ceed0fd3f68" download="server"F
              type="mods"
              website="bdew.net/mods/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&amp;projectID=70496&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=blackdew%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
              authors="bdew"
@@ -346,14 +330,6 @@
              website="http://www.big-reactors.com"
              authors="ErogenousBeef"
              description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power."
-             />
-
-        <mod name="The BigTrees Mod"
-             version="1.7.2b-forge1060" url="packs/ResonantRiseLite/files/void/BIGTREES-172B-FORGE1060.jar" file="BIGTREES-172B-FORGE1060.jar" md5="465917560c53ef73f38ffee25ad7bc59" download="server"
-             type="mods"
-             website="www.minecraftforum.net/topic/782646-"
-             authors="Karob,ThorinStonehelm"
-             description="Adds larger trees to Minecraft, enhancing dimensional complexity and atmophsere."
              />
 
         <mod name="Blood Magic: Alchemical Wizardry"
@@ -420,14 +396,6 @@
              description="Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns."
              />
 
-        <mod name="ChickenChunks"
-             version="1.3.4.19" url="packs/ResonantRiseLite/files/void/CHICKENCHUNKS-1.7.10-1.3.4.19-UNIVERSAL.jar" file="CHICKENCHUNKS-1.7.10-1.3.4.19-UNIVERSAL.jar" md5="5592eda79bd2b52adf1d4bdceaa59b73" download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/909223"
-             authors="ChickenBones"
-             description="Advanced chunkloading management  Credits: Sanguine - Texture  Supporters:"
-             />
-
         <mod name="Chisel"
              version="2.9.3.9" url="packs/ResonantRiseLite/files/void/CHISEL-2.9.3.9.jar" file="CHISEL-2.9.3.9.jar" md5="3788c1436fe2012b1fa0075a409407f9" download="server"
              type="mods"
@@ -442,14 +410,6 @@
              website="http://www.curseforge.com/projects/222784/"
              authors="Choonster"
              description="Adds Chisel&apos;s blocks as Buildcraft Facades."
-             />
-
-        <mod name="Chisel Tones"
-             version="1.7.10-1.0-3" url="packs/ResonantRiseLite/files/void/CHISELTONES-1.7.10-1.0-3.jar" file="CHISELTONES-1.7.10-1.0-3.jar" md5="6a1ac643ebf1a694222a8cd56cf1dbf0" download="server"
-             type="mods"
-             website="http://tehnut.info/"
-             authors="TehNut"
-             description="Chisel compatibility for Ztones"
              />
 
         <mod name="CodeChickenCore"
@@ -885,14 +845,13 @@
              description="Moar barrels  The Jabba team would like to thank the Academy for this award... oh wait... *cough* erm... Credits to neptunepink for the original barrel idea, Q and his community for the name, special thanks to skyboy for rendering assistance and the DSU, and the many people whom have made modded MC such an awesome thing to be a part of."
              />
 
-        <mod name="Java
-         version Checker"
-          version="1.1" url="packs/ResonantRiseLite/files/void/JAVA7CHECKER  MC-UNIVERSAL  V2.0.jar" file="JAVA7CHECKER  MC-UNIVERSAL  V2.0.jar" md5="adeb7e599b9ff7531173e93a9c2b3332" download="server"
-          type="mods"
-          website="http://chylex.com"
-          authors="chylex"
-          description="Nobody ever sees this!"
-          />
+        <mod name="Java version Checker"
+             version="1.1" url="packs/ResonantRiseLite/files/void/JAVA7CHECKER  MC-UNIVERSAL  V2.0.jar" file="JAVA7CHECKER  MC-UNIVERSAL  V2.0.jar" md5="adeb7e599b9ff7531173e93a9c2b3332" download="server"
+             type="mods"
+             website="http://chylex.com"
+             authors="chylex"
+             description="Nobody ever sees this!"
+             />
 
         <mod name="JourneyMap"
              version="1.7.10-5.1.3" url="packs/ResonantRiseLite/files/void/JOURNEYMAP-1.7.10-5.1.3-UNLIMITED.jar" file="JOURNEYMAP-1.7.10-5.1.3-UNLIMITED.jar" md5="6c2ec9c84f91e44e9b37e7aacc96da8f" download="server"
@@ -1472,8 +1431,8 @@
              description="Translocates stuff!    Credits: MouseCop - Textures  Supporters:"
              />
 
-        <mod name=""
-             version="" url="packs/ResonantRiseLite/files/void/TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar" file="TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar" md5="a973da9e1b815a69c4e187dc5c988d06" download="server"
+        <mod name="Tree Growing Simulator 2014"
+             version="0.0.3-22" url="packs/ResonantRiseLite/files/void/TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar" file="TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar" md5="a973da9e1b815a69c4e187dc5c988d06" download="server"
              type="mods"
              website=""
              description=""
@@ -1544,14 +1503,6 @@
              type option to generate nothing except for a inital spawn platform, useful for creative players who want to make Skyblock style maps. 2.0 reduces the spawn zone to 1 block, 2.1 is updated to 1.5.2 and srg names, *should* never need a update again ;)"
              />
 
-        <mod name="Ztones"
-             version="2.2" url="packs/ResonantRiseLite/files/void/ZTONES-1.7.10-2.2.1.jar" file="ZTONES-1.7.10-2.2.1.jar" md5="4f517be3ad447c4f41742fa7e1ae959f" download="server"
-             type="mods"
-             website="http://www.curseforge.com/projects/224369/"
-             authors="riciJak"
-             description="Decorative Blocks"
-             />
-
 <!-- Optioanl Mod Set -->
 
     <!-- Optional Selection -->
@@ -1562,20 +1513,36 @@
              website="http://resonant-rise.com"
              authors="RR Dev Team"
              description="Select me to activate ALL mods in Optional."
-             depends="Advanced Generators"
+             depends="ChickenChunks, Ztones"
              />
 
     <!-- Optional Mods (Alphabetized and sorted under Parents)-->
 
-        <mod name="Witchery"
-             version="1.7.10-0.24.1" url="packs/ResonantRise/files/3.3.x/WITCHERY-1.7.10-0.24.1.jar" file="WITCHERY-1.7.10-0.24.1.jar" md5="22096b8e462fa5cca3a6c8054116d4fc" download="server"
-             type="mods" optional="yes" recommended="yes"
-             website="http://sites.google.com/site/witcherymod/"
-             authors="Emoniph"
-             description="Bringing witchcraft and nature magic to Minecraft: cauldrons, broomsticks, ritual circles, magical brews, a bit of necromancy and voodoo for good measure; all topped off with a fetching pointy hat. Oh, and watch out for the demons..."
+        <mod name="ChickenChunks"
+             version="1.3.4.19" url="packs/ResonantRiseLite/files/void/CHICKENCHUNKS-1.7.10-1.3.4.19-UNIVERSAL.jar" file="CHICKENCHUNKS-1.7.10-1.3.4.19-UNIVERSAL.jar" md5="5592eda79bd2b52adf1d4bdceaa59b73" download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/topic/909223"
+             authors="ChickenBones"
+             description="Advanced chunkloading management  Credits: Sanguine - Texture  Supporters:"
              />
 
-<!-- CLient and Server Mod Set -->
+        <mod name="Ztones"
+             version="2.2" url="packs/ResonantRiseLite/files/void/ZTONES-1.7.10-2.2.1.jar" file="ZTONES-1.7.10-2.2.1.jar" md5="4f517be3ad447c4f41742fa7e1ae959f" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/224369/"
+             authors="riciJak"
+             description="Decorative Blocks"
+             />
+
+        <mod name="Chisel Tones"
+             version="1.7.10-1.0-3" url="packs/ResonantRiseLite/files/void/CHISELTONES-1.7.10-1.0-3.jar" file="CHISELTONES-1.7.10-1.0-3.jar" md5="6a1ac643ebf1a694222a8cd56cf1dbf0" download="server"
+             type="mods"
+             website="http://tehnut.info/"
+             authors="TehNut"
+             description="Chisel compatibility for Ztones"
+             />
+
+<!-- Client and Server Mod Set -->
 
     <!-- Server and Client Only Mods (Alphabetized and sorted under Parents) -->
 
