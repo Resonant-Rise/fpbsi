@@ -444,7 +444,7 @@
 
         <mod name="Custom Main Menu"
              version="1.9.2" url="packs/ResonantRiseLite/files/void/CUSTOMMAINMENU-MC1.7.10-1.9.2.jar" file="CUSTOMMAINMENU-MC1.7.10-1.9.2.jar" md5="7d0a3079e02fc07cd19a9558227e878b" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/226406/"
              authors="lumien"
              description="Allows you to edit the mainmenu using json"
@@ -1086,7 +1086,7 @@
 
         <mod name="Resource Loader"
              version="1.2" url="packs/ResonantRiseLite/files/void/RESOURCELOADER-1.2.jar" file="RESOURCELOADER-1.2.jar" md5="39facaa73da49b026ee2009dbdfcdccc" download="server"
-             type="mods"
+             type="mods" server="no"
              website="http://www.curseforge.com/projects/226447/"
              authors="lumien"
              description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
