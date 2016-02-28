@@ -1,0 +1,33 @@
+=================
+Build a.0.0.2
+=================
+
+==Void Core/Dependancies==
+Adjusted mods, shaved off what wasn't needed (more probably to come)
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
+build a.0.0.1
+=================
+
+Initial upload - copied RR 3.3.0.2.a.1.0.5 as base platform.

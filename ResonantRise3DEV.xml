@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>Void-Dev-001</version>
+        <version>Void-Dev-002</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -482,14 +482,6 @@
              description="Draconic Evolution is a mod that adds some extremely expensive high tier items to the game. "
              />
 
-        <mod name="EiraIRC"
-             version="2.9.396" url="packs/ResonantRiseLite/files/void/EIRAIRC-MC1.7.10-2.9.396.jar" file="EIRAIRC-MC1.7.10-2.9.396.jar" md5="48464b6b9e406d9d37e828acaca26271" download="server"
-             type="mods"
-             website="http://blay09.net" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=HSFYLPEWBZSHY&amp;item_name=EiraIRC+(from+curseforge.com)&amp;cmd=_s-xclick"
-             authors="BlayTheNinth"
-             description="Connect your server or client to IRC and Twitch Chat and easily share your screenshots with other players."
-             />
-
         <mod name="Emotes"
              version="1.0.1" url="packs/ResonantRiseLite/files/void/EMOTES 1.0.1.jar" file="EMOTES 1.0.1.jar" md5="a5224b8fc31c520eea7f51d879e036ff" download="server"
              type="mods"
@@ -568,6 +560,14 @@
              website="http://www.curseforge.com/projects/221696/"
              authors="Erasmus_Crowley"
              description="The Skyblock Companion Mod"
+             />
+
+        <mod name="Ad Aqua"
+             version="1.1.18" url="packs/ResonantRiseLite/files/void/excompressum-mc1.7.10-1.1.18.jar" file="excompressum-mc1.7.10-1.1.18.jar" md5="929f9524bc25b6ad90f91c79dd363935" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/241967/"
+             authors="BlayTheNinth"
+             description="Ex Nihilo Addon. Adds a wooden crucible for creating water out of plants and fruits."
              />
 
         <mod name="Extra Cells 2"
@@ -1355,23 +1355,69 @@
              description="Chisel compatibility for Ztones"
              />
 
-        <mod name="Plena Inanis" version="1.7.10-1.2" url="packs/ResonantRiseLite/files/void/plenainanis-1.7.10-1.2.jar" file="plenainanis-1.7.10-1.2.jar" md5="5628240b141f7dbbde9d9422d0282973" download="server" type="mods" website="http://minecraft.curseforge.com/projects/plena-inanis" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/plena-inanis?gameCategorySlug=mc-mods&amp;projectID=241640&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=dwrathgames%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_" authors="Dagarath" description="Full on Empty" />
+        <mod name="Grue"
+             version="1.7.10-1.2.1" url="packs/ResonantRiseLite/files/void/Grue-1.7.10-1.2.1.jar" file="Grue-1.7.10-1.2.1.jar" md5="d219b15dff5f377f6bb0f8d12760d44a" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/235133/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/grue?gameCategorySlug=mc-mods&amp;projectID=235133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=felix%40lundquist.ws&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH"
+             authors="shinoow"
+             description="It&apos;s pitch black. You are likely to be eaten by a grue."
+             />
 
-        <mod name="Grue" version="1.7.10-1.2.1" url="packs/ResonantRiseLite/files/void/Grue-1.7.10-1.2.1.jar" file="Grue-1.7.10-1.2.1.jar" md5="d219b15dff5f377f6bb0f8d12760d44a" download="server" type="mods" website="http://www.curseforge.com/projects/235133/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/grue?gameCategorySlug=mc-mods&amp;projectID=235133&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=felix%40lundquist.ws&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonH" authors="shinoow" description="It&apos;s pitch black. You are likely to be eaten by a grue." />
+        <mod name="Better Questing"
+             version="1.0.25" url="packs/ResonantRiseLite/files/void/BetterQuesting-1.0.25.jar" file="BetterQuesting-1.0.25.jar" md5="e569b4339e1a499533a60dd4caf1d57c" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/238856/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing?gameCategorySlug=mc-mods&amp;projectID=238856&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
+             authors="Funwayguy"
+             description="A new and improved questing mod for Minecraft pack creators"
+             />
 
-        <mod name="Better Questing" version="1.0.25" url="packs/ResonantRiseLite/files/void/BetterQuesting-1.0.25.jar" file="BetterQuesting-1.0.25.jar" md5="e569b4339e1a499533a60dd4caf1d57c" download="server" type="mods" website="http://www.curseforge.com/projects/238856/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing?gameCategorySlug=mc-mods&amp;projectID=238856&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-DonationsBF:btn_don" authors="Funwayguy" description="A new and improved questing mod for Minecraft pack creators" />
+        <mod name="Standard Expansion"
+             version="1.0.18"
+             url="packs/ResonantRiseLite/files/void/StandardExpansion-1.0.18.jar" file="StandardExpansion-1.0.18.jar" md5="f107d9be9a23f4d1bd0a1cb1dd1887e9" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/238857/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing-standard-expansion?gameCategorySlug=mc-mods&amp;projectID=238857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-"
+             authors="Funwayguy"
+             description="Contains all the standard tasks, rewards, importers and themes for Better Questing"
+             />
 
-        <mod name="Standard Expansion" version="1.0.18" url="packs/ResonantRiseLite/files/void/StandardExpansion-1.0.18.jar" file="StandardExpansion-1.0.18.jar" md5="f107d9be9a23f4d1bd0a1cb1dd1887e9" download="server" type="mods" website="http://www.curseforge.com/projects/238857/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing-standard-expansion?gameCategorySlug=mc-mods&amp;projectID=238857&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-" authors="Funwayguy" description="Contains all the standard tasks, rewards, importers and themes for Better Questing" />
+        <mod name="NPC Integration"
+             version="1.0.5" url="packs/ResonantRiseLite/files/void/NPCIntegration-1.0.5.jar" file="NPCIntegration-1.0.5.jar" md5="15d6cb821712f35ce9c8afce44b0949a" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/241475/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing-npc-integration?gameCategorySlug=mc-mods&amp;projectID=241475&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-Don"
+             authors="Funwayguy"
+             description="Provides tasks and rewards to integrate Custom NPCs into Better Questing"
+             />
 
-        <mod name="NPC Integration" version="1.0.5" url="packs/ResonantRiseLite/files/void/NPCIntegration-1.0.5.jar" file="NPCIntegration-1.0.5.jar" md5="15d6cb821712f35ce9c8afce44b0949a" download="server" type="mods" website="http://www.curseforge.com/projects/241475/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing-npc-integration?gameCategorySlug=mc-mods&amp;projectID=241475&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-Don" authors="Funwayguy" description="Provides tasks and rewards to integrate Custom NPCs into Better Questing" />
+        <mod name="RF Expansion"
+             version="1.0.2" url="packs/ResonantRiseLite/files/void/RFExpansion-1.0.2.jar" file="RFExpansion-1.0.2.jar" md5="7852860b620424d560fa41ecc065a119" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/242039/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing-rf-expansion?gameCategorySlug=mc-mods&amp;projectID=242039&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwaguyEmail%40gmail.com&amp;bn=PP-Donatio"
+             authors="Funwayguy"
+             description="Redstone Flux based tasks for Better Questing"
+             />
 
-        <mod name="RF Expansion" version="1.0.2" url="packs/ResonantRiseLite/files/void/RFExpansion-1.0.2.jar" file="RFExpansion-1.0.2.jar" md5="7852860b620424d560fa41ecc065a119" download="server" type="mods" website="http://www.curseforge.com/projects/242039/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing-rf-expansion?gameCategorySlug=mc-mods&amp;projectID=242039&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwaguyEmail%40gmail.com&amp;bn=PP-Donatio" authors="Funwayguy" description="Redstone Flux based tasks for Better Questing" />
+        <mod name="Advanced Systems Manager"
+             version="0.2.0" url="packs/ResonantRiseLite/files/void/AdvancedSystemsManager-1.7.10-0.2.0.jar" file="AdvancedSystemsManager-1.7.10-0.2.0.jar" md5="944080ab691c9212aa49debb5623d8e9" download="server"
+             type="mods"
+             website="https://github.com/hilburn/AdvancedSystemsManager"
+             authors="hilburn"
+             description="minecraft.curseforge.com/projects/advanced-systems-manager"
+             />
 
-        <mod name="Advanced Systems Manager" version="0.2.0" url="packs/ResonantRiseLite/files/void/AdvancedSystemsManager-1.7.10-0.2.0.jar" file="AdvancedSystemsManager-1.7.10-0.2.0.jar" md5="944080ab691c9212aa49debb5623d8e9" download="server" type="mods" website="https://github.com/hilburn/AdvancedSystemsManager" authors="hilburn" description="minecraft.curseforge.com/projects/advanced-systems-manager" />
+        <mod name="Loot Bags"
+             version="1.8.1" url="packs/ResonantRiseLite/files/void/LootBags-1.7.10-1.8.1.jar" file="LootBags-1.7.10-1.8.1.jar" md5="e37541d919e5efe9d853b4468375556b" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/225946/"
+             authors="Malorolam"
+             description="Add loot pouches to entity drops" />
 
-        <mod name="Loot Bags" version="1.8.1" url="packs/ResonantRiseLite/files/void/LootBags-1.7.10-1.8.1.jar" file="LootBags-1.7.10-1.8.1.jar" md5="e37541d919e5efe9d853b4468375556b" download="server" type="mods" website="http://www.curseforge.com/projects/225946/" authors="Malorolam" description="Add loot pouches to entity drops" />
-
-        <mod name="Accidentally Circumstantial Events" version="1.12.0" url="packs/ResonantRiseLite/files/void/accidentallycircumstantialevents-1.12.0.jar" file="accidentallycircumstantialevents-1.12.0.jar" md5="54e4241f82d508cf3c4b4d9d2456a2b4" download="server" type="mods" website="http://www.curseforge.com/projects/227796/" authors="Zavvias" description="Custom events mod" />
+        <mod name="Accidentally Circumstantial Events"
+             version="1.12.0" url="packs/ResonantRiseLite/files/void/accidentallycircumstantialevents-1.12.0.jar" file="accidentallycircumstantialevents-1.12.0.jar" md5="54e4241f82d508cf3c4b4d9d2456a2b4" download="server"
+             type="mods"
+             website="http://www.curseforge.com/projects/227796/"
+             authors="Zavvias"
+             description="Custom events mod"
+             />
 
 <!-- Client and Server Mod Set -->
 
@@ -1401,13 +1447,13 @@
              description="Various performance improvements"
              /> -->
 
-       <!-- <mod name="EiraIRC"
-             version="2.9.396" url="packs/ResonantRise/files/3.3.x/096/eirairc-mc1.7.10-2.9.396.jar" file="eirairc-mc1.7.10-2.9.396.jar" md5="48464b6b9e406d9d37e828acaca26271" download="server"
+        <mod name="EiraIRC"
+             version="2.9.396" url="packs/ResonantRiseLite/files/void/EIRAIRC-MC1.7.10-2.9.396.jar" file="EIRAIRC-MC1.7.10-2.9.396.jar" md5="48464b6b9e406d9d37e828acaca26271" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://www.minecraftforum.net/topic/1964989-"
              authors="Blay09"
              description="An IRC Connector that works both on clients and servers independently, with some neat special features."
-             /> -->
+             />
 
         <mod name="FastCraft"
              version="1.21" url="packs/ResonantRiseLite/files/void/FASTCRAFT-1.21.jar" file="FASTCRAFT-1.21.jar" md5="f1f33a007d6a78d68e6bb217a6ffdb9e" download="server"
@@ -1425,14 +1471,6 @@
              description="JourneyMap is a client mod for Forge which maps your Minecraft world in real-time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen."
              />
 
-       <!-- <mod name="Morpheus"
-             version="1.7.10-1.6.18" url="packs/ResonantRise/files/3.3.x/096/Morpheus-1.7.10-1.6.18.jar" file="Morpheus-1.7.10-1.6.18.jar" md5="d9515a99bfba89b92639dac6847220f4" download="server"
-             type="mods" optional="yes" client="no"
-             website="http://minecraft.curseforge.com/mc-mods/morpheus/" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+%28from+CurseForge.com%29&amp;cmd=_s-xclick"
-             authors="quetzi"
-             description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
-             /> -->
-
         <mod name="Mouse Tweaks"
              version="2.4.4" url="packs/ResonantRiseLite/files/void/MOUSETWEAKS-2.4.4-MC1.7.10.jar" file="MOUSETWEAKS-2.4.4-MC1.7.10.jar" md5="d4968eb0b513066313259fcd80bb8eb0" download="server"
              type="mods" optional="yes" selected="no" recommended="no" server="no"
@@ -1441,8 +1479,16 @@
              description="Adds inventory based item dragging and more!"
              />
 
-        <!--<mod name="ReCubed" version="1.1-4"
-             url="packs/ResonantRise/files/3.3.x/096/ReCubed 1.1-4.jar" file="ReCubed 1.1-4.jar" md5="df4a0c0cff4cd620895470602ff5674c" download="server"
+        <mod name="Morpheus"
+             version="1.7.10-1.6.21" url="packs/ResonantRiseLite/files/void/Morpheus-1.7.10-1.6.21.jar" file="Morpheus-1.7.10-1.6.21.jar" md5="5d31a1480db8b091757ea5ccd4e220d9" download="server"
+             type="mods" optional="yes"
+             website="http://www.curse.com/mc-mods/Minecraft/morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+(from+curseforge.com)&amp;cmd=_s-xclick"
+             authors="Quetzi"
+             description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate."
+             />
+
+        <mod name="ReCubed"
+             version="1.1-4" url="packs/ResonantRiseLite/files/void/RECUBED 1.1-4.jar" file="RECUBED 1.1-4.jar" md5="df4a0c0cff4cd620895470602ff5674c" download="server"
              type="mods" warning="ReCubed" optional="yes" selected="no" recommended="no"
              website="http://www.curseforge.com/projects/231452/"
              authors="Vazkii"
@@ -1450,14 +1496,14 @@
              />
 
         <mod name="TC Node Tracker"
-             version="1.7.10-1.1.1" url="packs/ResonantRise/files/3.x/tcnodetracker-1.7.10-1.1.1.jar" file="tcnodetracker-1.7.10-1.1.1.jar" md5="715995688d04cad910fcf2db583e7553" download="server"
+             version="1.7.10-1.1.1" url="packs/ResonantRiseLite/files/void/TCNODETRACKER-1.7.10-1.1.1.jar" file="TCNODETRACKER-1.7.10-1.1.1.jar" md5="715995688d04cad910fcf2db583e7553" download="server"
              type="mods" optional="yes" selected="no" depends="Thaumcraft 4" recommended="no" server="no"
              website="http://www.curse.com/mc-mods/minecraft/227328-"
              authors="Dyonovan"
              description="Tracks scanned nodes for Thaumcraft"
              />
 
-        <mod name="TickProfiler" version="1.7.10.37"
+        <!--<mod name="TickProfiler" version="1.7.10.37"
              url="packs/ResonantRise/files/3.x/TickProfiler-1.7.10.37.jar" file="TickProfiler-1.7.10.37.jar" md5="ceb0ecd5f8c9a474e420b55138dc6eae" download="server"
              type="mods" optional="yes" selected="no" recommended="no" client="no" server="yes"
              website="http://forum.feed-the-beast.com/threads/6498/" donation="https://github.com/nallar/TickThreading#donations"
@@ -1475,8 +1521,8 @@
 
 <!-- This section is for DEV ONLY mods these should NEVER be put into public versions, EVER!. -->
 
-       <!-- <mod name="== Dev Only ==" version="RR3" colour="rred"
-             url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
+       <mod name="== Dev Only ==" version="RR3" colour="rred"
+             url="packs/ResonantRiseLite/files/void/header.zip" file="header.zip" md5="76cdb2bad9582d23c1f6f4d868218d6c" download="server"
              type="extract" extractto="root" optional="yes" recommended="no"
              website="http://resonant-rise.com"
              authors="RR Dev Team"
@@ -1484,28 +1530,28 @@
              />
 
         <mod name="MineTweakerRecipeMaker"
-             version="1.1.0.11" url="packs/ResonantRise/files/MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar" file="MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar" md5="65dfb8009939ff5e5ac2b6963078b0cb" download="server"
+             version="1.1.0.11" url="packs/ResonantRiseLite/files/void/MINETWEAKERRECIPEMAKER-1.7.10-1.1.0.11.jar" file="MINETWEAKERRECIPEMAKER-1.7.10-1.1.0.11.jar" md5="65dfb8009939ff5e5ac2b6963078b0cb" download="server"
              type="mods" optional="yes" recommended="no" server="no"
              website="https://github.com/DoubleDoorDevelopment/MineTweakerRecipeMaker"
              authors="Dries007,Doubledoor team"
              description="MineTweaker Recipe Maker"
              />
 
-        <mod name="Torcherino" version="rc2"
-             url="packs/ResonantRise/files/3.x/Torcherino-1.7.10-rc2.jar" file="Torcherino-1.7.10-rc2.jar" md5="33956d98885a1381e5fc0b9148a2d1ae" download="server"
+        <mod name="Torcherino"
+             version="rc2" url="packs/ResonantRiseLite/files/void/TORCHERINO-1.7.10-RC2.jar" file="TORCHERINO-1.7.10-RC2.jar" md5="33956d98885a1381e5fc0b9148a2d1ae" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://moze-project-e.weebly.com/"
              authors="Moze_Intel"
              description="Time Torches that won't kill your server."
              />
 
-        <mod name="WorldEdit" version="6.0-beta-01;3335-e7a18b26"
-             url="packs/ResonantRise/files/3.x/worldedit-forge-mc1.7.10-6.0-beta-01.jar" file="worldedit-forge-mc1.7.10-6.0-beta-01.jar" md5="927d31f9b1e8d60623fedd685818e059" download="server"
+        <mod name="WorldEdit"
+             version="6.0-beta-01;3335-e7a18b26" url="packs/ResonantRiseLite/files/void/WORLDEDIT-FORGE-MC1.7.10-6.0-BETA-01.jar" file="WORLDEDIT-FORGE-MC1.7.10-6.0-BETA-01.jar" md5="927d31f9b1e8d60623fedd685818e059" download="server"
              type="mods" optional="yes" recommended="no"
              website="http://wiki.sk89q.com/wiki/WorldEdit"
              authors="sk89q,wizjany,TomyLobo"
              description="WorldEdit is an easy-to-use in-game world editor for Minecraft, supporting both single player and multiplayer."
-             /> -->
+             />
 
     </mods>
 
