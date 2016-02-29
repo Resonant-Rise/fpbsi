@@ -1,4 +1,32 @@
 =================
+Build a.0.0.3
+=================
+
+==Void Core/Dependancies==
+Adding Beter Questing and all the current addons and custom NPCs
+
+==Optionals==
+n/a
+
+--Client Only--
+n/a
+
+--Server Only--
+n/a
+
+==Removed==
+n/a
+
+==Configs==
+n/a
+
+==Misc.==
+n/a
+
+-- Dev only --
+n/a
+
+=================
 Build a.0.0.2
 =================
 
