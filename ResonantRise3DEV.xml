@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>Void-Dev-003</version>
+        <version>Void-Dev-001</version>
         <minecraft>1.7.10</minecraft>
         <memory>2560</memory>
         <permgen>256</permgen>
@@ -444,7 +444,7 @@
 
         <mod name="Custom Main Menu"
              version="1.9.2" url="packs/ResonantRiseLite/files/void/CUSTOMMAINMENU-MC1.7.10-1.9.2.jar" file="CUSTOMMAINMENU-MC1.7.10-1.9.2.jar" md5="7d0a3079e02fc07cd19a9558227e878b" download="server"
-             type="mods" server="no"
+             type="mods"
              website="http://www.curseforge.com/projects/226406/"
              authors="lumien"
              description="Allows you to edit the mainmenu using json"
@@ -1086,7 +1086,7 @@
 
         <mod name="Resource Loader"
              version="1.2" url="packs/ResonantRiseLite/files/void/RESOURCELOADER-1.2.jar" file="RESOURCELOADER-1.2.jar" md5="39facaa73da49b026ee2009dbdfcdccc" download="server"
-             type="mods" server="no"
+             type="mods"
              website="http://www.curseforge.com/projects/226447/"
              authors="lumien"
              description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack."
@@ -1386,14 +1386,6 @@
              website="http://www.curseforge.com/projects/241475/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/better-questing-npc-integration?gameCategorySlug=mc-mods&amp;projectID=241475&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=FunwayguyEmail%40gmail.com&amp;bn=PP-Don"
              authors="Funwayguy"
              description="Provides tasks and rewards to integrate Custom NPCs into Better Questing"
-             />
-
-        <mod name="CustomNpcs"
-             version="1.7.10d(21feb16)" url="packs/ResonantRiseLite/files/void/CustomNPCs_1.7.10d(21feb16).jar" file="CustomNPCs_1.7.10d(21feb16).jar" md5="4cb28a4ddbfe0b6aa547cdb9acd5a241" download="server"
-             type="mods"
-             website="http://minecraft.curseforge.com/projects/custom-npcs" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/custom-npcs?gameCategorySlug=mc-mods&amp;projectID=221826&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=cfw_os%40hotmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.g"
-             authors="Noppes,DarkSignal(AI),Foxz(Commands)"
-             description="The Custom Npcs mod lets you create your own npcs and lets you customize them how you want"
              />
 
         <mod name="RF Expansion"
