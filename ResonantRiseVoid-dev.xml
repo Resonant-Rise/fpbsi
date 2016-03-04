@@ -691,13 +691,13 @@
              description="Overhauls the End with many new areas to explore, bosses to fight and rewards to gain."
              />
 
-       <!-- <mod name="Hardcore Questing Mode"
+       <mod name="Hardcore Questing Mode"
              version="4.4.4" url="packs/ResonantRiseLite/files/void/HQM-The Journey-4.4.4.jar" file="HQM-The Journey-4.4.4.jar" md5="3c2585ecfb2841ba07d4fe95c5209a04" download="server"
              type="mods"
              website="http://hardcorequest.com/" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/hardcore-questing-mode?gameCategorySlug=mc-mods&amp;projectID=77027&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=lang2619%40gmail.com&amp;bn=PP-DonationsBF:btn_don"
              authors="Vswe,Lorddusk,Newcastlegeek"
              description="This mod will add Hardcore mode with extra lives. If you use up your lives, your world will be deleted or you will be banned."
-             /> -->
+             />
 
         <mod name="Immersive Engineering"
              version="0.7.1.2" url="packs/ResonantRiseLite/files/void/IMMERSIVEENGINEERING-0.7.1.2.jar" file="IMMERSIVEENGINEERING-0.7.1.2.jar" md5="fedbd3ce92854a68cf410a7ba528fa53" download="server"
@@ -1314,6 +1314,14 @@
              authors="LexManos"
              description="Adds a new World
              type option to generate nothing except for a inital spawn platform, useful for creative players who want to make Skyblock style maps. 2.0 reduces the spawn zone to 1 block, 2.1 is updated to 1.5.2 and srg names, *should* never need a update again ;)"
+             />
+
+        <mod name="Progression"
+             version="1.7.10-0.4.1" url="packs/ResonantRiseLite/files/void/Progression-1.7.10-0.4.1.jar" file="Progression-1.7.10-0.4.1.jar" md5="f55055115a91b87cfab32756ae9923d7" download="server"
+             type="mods"
+             website="http://progression.joshiejack.co.uk" donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/projects/progression?gameCategorySlug=mc-mods&amp;projectID=229495&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=joshjackwildman%40gmail.com&amp;bn=PP-DonationsBF:btn_donate"
+             authors="joshie"
+             description="A mod that allows you to control the progression of individual players."
              />
 
 <!-- Optioanl Mod Set -->
